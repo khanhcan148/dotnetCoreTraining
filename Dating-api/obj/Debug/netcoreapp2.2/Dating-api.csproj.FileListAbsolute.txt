@@ -1,0 +1,14 @@
+/Users/khanhtran/Dotnetcore/Dating-api/bin/Debug/netcoreapp2.2/Dating-api.deps.json
+/Users/khanhtran/Dotnetcore/Dating-api/bin/Debug/netcoreapp2.2/Dating-api.runtimeconfig.json
+/Users/khanhtran/Dotnetcore/Dating-api/bin/Debug/netcoreapp2.2/Dating-api.runtimeconfig.dev.json
+/Users/khanhtran/Dotnetcore/Dating-api/bin/Debug/netcoreapp2.2/Dating-api.dll
+/Users/khanhtran/Dotnetcore/Dating-api/bin/Debug/netcoreapp2.2/Dating-api.pdb
+/Users/khanhtran/Dotnetcore/Dating-api/obj/Debug/netcoreapp2.2/Dating-api.csprojAssemblyReference.cache
+/Users/khanhtran/Dotnetcore/Dating-api/obj/Debug/netcoreapp2.2/Dating-api.csproj.CoreCompileInputs.cache
+/Users/khanhtran/Dotnetcore/Dating-api/obj/Debug/netcoreapp2.2/Dating-api.RazorAssemblyInfo.cache
+/Users/khanhtran/Dotnetcore/Dating-api/obj/Debug/netcoreapp2.2/Dating-api.RazorAssemblyInfo.cs
+/Users/khanhtran/Dotnetcore/Dating-api/obj/Debug/netcoreapp2.2/Dating-api.AssemblyInfoInputs.cache
+/Users/khanhtran/Dotnetcore/Dating-api/obj/Debug/netcoreapp2.2/Dating-api.AssemblyInfo.cs
+/Users/khanhtran/Dotnetcore/Dating-api/obj/Debug/netcoreapp2.2/Dating-api.RazorTargetAssemblyInfo.cache
+/Users/khanhtran/Dotnetcore/Dating-api/obj/Debug/netcoreapp2.2/Dating-api.dll
+/Users/khanhtran/Dotnetcore/Dating-api/obj/Debug/netcoreapp2.2/Dating-api.pdb
